@@ -12,8 +12,8 @@ d3.lasso(opts);
 
 The options are:
 
-    1) target: The dom element we want to apply the lasso tool
-    2) callback: The funciton to be invoked when selection is ended. It contains an object with the information about the are that was selected.
+1) target: The dom element we want to apply the lasso tool
+2) callback: The funciton to be invoked when selection is ended. It contains an object with the information about the are that was selected.
     
 For example:
 
